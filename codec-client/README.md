@@ -1,4 +1,4 @@
-# Game Elements of CodeC
+# Game Elements of CodeC - Frontend
 
 Hi, readers!
 
