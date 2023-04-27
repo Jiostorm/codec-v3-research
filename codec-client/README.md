@@ -2,7 +2,7 @@
 
 Hi, readers!
 
-This contains the game elements used in CodeC for the research conducted by Jobb Rodriguez, George William Sison, and Sukhraj Takhar.
+This contains frontend code of the game elements used in CodeC for the research conducted by Jobb Rodriguez, George William Sison, and Sukhraj Takhar.
 
 They are advised by Joshua Martinez.
 
